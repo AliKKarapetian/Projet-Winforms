@@ -1,0 +1,10 @@
+C:\Users\alik0\Desktop\EditeurDeText\bin\Debug\EditeurDeText.exe.config
+C:\Users\alik0\Desktop\EditeurDeText\bin\Debug\EditeurDeText.exe
+C:\Users\alik0\Desktop\EditeurDeText\bin\Debug\EditeurDeText.pdb
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.csproj.AssemblyReference.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.Properties.Resources.resources
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.csproj.GenerateResource.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.csproj.CoreCompileInputs.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.exe
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.pdb
+C:\Users\alik0\Desktop\EditeurDeText\obj\Debug\EditeurDeText.EditerText.resources

@@ -1,0 +1,10 @@
+C:\Users\alik0\Desktop\EditeurDeText\bin\Release\EditeurDeText.exe.config
+C:\Users\alik0\Desktop\EditeurDeText\bin\Release\EditeurDeText.exe
+C:\Users\alik0\Desktop\EditeurDeText\bin\Release\EditeurDeText.pdb
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.csproj.AssemblyReference.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.EditerText.resources
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.Properties.Resources.resources
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.csproj.GenerateResource.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.csproj.CoreCompileInputs.cache
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.exe
+C:\Users\alik0\Desktop\EditeurDeText\obj\Release\EditeurDeText.pdb
